@@ -10,7 +10,7 @@ namespace ArrayColection
 
             string[] alunosAMS = new string [5]{
           
-            "Daniela",
+            "Danieli",
             "Ana Julia",
             "Bruno",
             "Oberdan",
@@ -19,10 +19,6 @@ namespace ArrayColection
             };  
 
             Console.WriteLine(alunosAMS[2]);
-
-            //alunosAMS[2] = "Pedro";
-
-            Console.WriteLine($"Novo valor no index: {alunosAMS[2]}");
 
             foreach ( string alunos in alunosAMS)
             {
