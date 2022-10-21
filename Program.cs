@@ -8,13 +8,14 @@ namespace ArrayColection
         {
             //sintaxe do Array : Tiposdedados [] = new tiposdedados [tamanho];
 
-            string[] alunosAMS = new string [5]{
+            string[] alunosAMS = new string [6]{
           
             "Danieli",
             "Ana Julia",
             "Bruno",
             "Oberdan",
             "Sofia"
+             "Pivettão"
 
             };  
 
